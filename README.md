@@ -33,4 +33,4 @@ Flexbox & responsive media queries
 
 Simple animations
 
-**📸 Preview**  https://github.com/vinojai19/Tripadvisor-clone.git
+**📸 Preview** [ https://github.com/vinojai19/Tripadvisor-clone.git](https://vinojai19.github.io/Tripadvisor-clone/)
