@@ -448,7 +448,7 @@ body {
         flex-basis: 40%;
     }
     
-    .things{
+    .navbar__2, .navbar__container, .things{
         display: none  ;
     }
     .navbar__4{
@@ -456,7 +456,7 @@ body {
     }
     
 }
-@media screen and (max-width:1000px) {
+@media screen and (max-width:1500px) {
     .watch{
         display: none;
     }
